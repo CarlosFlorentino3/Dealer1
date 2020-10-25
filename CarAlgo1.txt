@@ -1,0 +1,16 @@
+1. Look up car dealer
+    1a statewide
+    1b tristate
+    1c nationwide
+2. vehicle I'd like to buy
+    2a vehicle make
+    2b vehicle model
+    2c vehicle year
+    2d vehicle color
+3. speak to rep
+4. fill out application
+5. wait for bank response
+6. complete deal
+7. wait for paperwork
+8. drive away with car
+    
